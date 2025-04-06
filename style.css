@@ -1,0 +1,67 @@
+body {margin: 0;
+
+}
+
+table{
+    border-collapse: collapse;
+    border: 5px solid #000;
+    margin: 50px  auto;
+    width: 600px;
+    height: 600px;
+    
+
+   
+    
+
+
+   
+}
+tr{
+  border: #000 solid 5px;
+   
+}
+
+td{
+  border: #000 solid 5px;
+    
+  
+}
+
+
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
+.black{
+  background-color: black;
+}
+.red{
+  background-color: red;
+}
+ 
+
+.narrow-cell {
+  width: 20px;
+}
+
+.narrow-cell-2 {
+  height: 20px;
+  color: red 
+}
+.narrow-cell-3 {  
+  height: 150px;
+  
+}
+.q1{
+  height: 60px;
+}
+.q2{
+  height: 80px;
+}
+.q3{
+  height: 80px;
+}
+
+
